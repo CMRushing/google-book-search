@@ -79,7 +79,7 @@ class Home extends Component {
                 ) : (
                     <div>
                         <hr/>
-                    <p style={{fontStyle: "italic"}}>Nothing to display yet...</p>
+                    <p style={{fontStyle: "italic"}}>Nothing to show...</p>
                     </div>
                 )}
                 
